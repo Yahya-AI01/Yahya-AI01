@@ -4,10 +4,16 @@
 
 ## About Me
 
-Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Développement Full-Stack**, je suis constamment à la recherche de nouveaux défis pour innover et créer des solutions intelligentes.
-
- **Objectif** : Transformer les données en décisions stratégiques et développer des applications robustes et scalables.
-
+class Yahya:
+    def __init__(self):
+        self.name = "Yahya EL BAKOURI"
+        self.title = "Data Scientist & AI Engineer"
+        self.passion = ["Data Science", "Artificial Intelligence", "Data Analysis"]
+        self.mission = "Building intelligent systems that solve real-world problems"
+        self.motto = "Code. Learn. Innovate. Repeat."
+    
+    def say_hi(self):
+        print("Welcome to my digital playground!")
 ---
 
 ## Technical Skills
@@ -123,15 +129,6 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
 <div align="center">
   <i>"Transforming data into intelligence, one algorithm at a time."</i>
 </div>
-
----
-
-## Fun Facts
-
--  Passionné par l'IA et les technologies émergentes
--  Amateur de jeux de stratégie
--  Lecture constante sur les nouvelles technologies
--  Voyageur et curieux des différentes cultures
 
 ---
 
