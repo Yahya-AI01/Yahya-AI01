@@ -9,7 +9,7 @@
 ```python
 class Yahya:
     def __init__(self):
-        self.name = "Yahya EL BAKOURI"
+        self.name = "Yahya Misky"
         self.title = "Data Scientist & AI Engineer"
         self.passion = ["Data Science", "Artificial Intelligence", "Data Analysis"]
         self.mission = "Building intelligent systems that solve real-world problems"
