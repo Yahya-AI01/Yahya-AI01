@@ -141,5 +141,5 @@ print(me.say_hi())
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://programming-quotes-api.azurewebsites.net/api/quotes/random" alt="Random Programming Quote" />
 </div>
