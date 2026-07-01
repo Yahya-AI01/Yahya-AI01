@@ -141,5 +141,7 @@ print(me.say_hi())
 ---
 
 <div align="center">
-  <img src="https://programming-quotes-api.azurewebsites.net/api/quotes/random" alt="Random Programming Quote" />
+  <blockquote>
+    <i>"Programming is not just writing instructions for machines; it's a philosophy of problem-solving where logic meets creativity, and every bug teaches a lesson."</i>
+  </blockquote>
 </div>
