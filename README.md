@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Yahya+EL+BAKOURI;Data+Science+%26+AI+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Yahya+Misky;Data+Science+%26+AI+Engineer:Data+Analysis;Problem+Solver" alt="Typing Animation" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Développement Full-Stack**, je suis constamment à la recherche de nouveaux défis pour innover et créer des solutions intelligentes.
 
-🎯 **Objectif** : Transformer les données en décisions stratégiques et développer des applications robustes et scalables.
+ **Objectif** : Transformer les données en décisions stratégiques et développer des applications robustes et scalables.
 
 ---
 
@@ -100,25 +100,13 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
 
 ---
 
-## 🏆 Projects & Achievements
-
-- 🔭 **Current Work** : Développement de modèles de Machine Learning pour la prédiction et l'analyse de données complexes
-- 🌱 **Learning** : Deep Learning avancé et architectures de réseaux de neurones
-- 👯 **Collaboration** : Open source projects in Data Science & AI
-- 💬 **Ask Me About** : Data Science, AI, Python, Full-Stack Development
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yahya-el-bakouri" target="_blank">
+  <a href="https://linkedin.com/in//Yahya-Misky" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/Yahya_AI" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:yahya.elbakouri@example.com">
+  <a href="mailto:yahya.miskyoff@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Yahya-AI01" target="_blank">
