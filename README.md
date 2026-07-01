@@ -101,19 +101,6 @@ print(me.say_hi())
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yahya-AI01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya-AI01&theme=radical&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=FF6B6B&currStreakLabel=00B4D8" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya-AI01&theme=react-dark&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FF6B6B&hide_border=true" alt="Activity Graph" width="95%" />
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -141,7 +128,5 @@ print(me.say_hi())
 ---
 
 <div align="center">
-  <blockquote>
     <i>"Programming is not just writing instructions for machines; it's a philosophy of problem-solving where logic meets creativity, and every bug teaches a lesson."</i>
-  </blockquote>
 </div>
