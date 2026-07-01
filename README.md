@@ -103,7 +103,7 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
 ## Connect With Me
 
 <div align="center">
-  <a href="[https://linkedin.com/in//Yahya-Misky](https://www.linkedin.com/in/yahya-misky-0333632aa/)" target="_blank">
+  <a href="https://www.linkedin.com/in/yahya-misky-0333632aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yahya.miskyoff@gmail.com">
