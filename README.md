@@ -2,8 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Yahya+Misky;Data+Science+%26+AI+Engineer;Data+Analysis;Problem+Solver" alt="Typing Animation" />
 </div>
 
-## About Me
+---
 
+##  About Me
+
+```python
 class Yahya:
     def __init__(self):
         self.name = "Yahya EL BAKOURI"
@@ -13,7 +16,12 @@ class Yahya:
         self.motto = "Code. Learn. Innovate. Repeat."
     
     def say_hi(self):
-        print("Welcome to my digital playground!")
+        return "Welcome to my digital playground!"
+
+# Let's connect and innovate together!
+me = Yahya()
+print(me.say_hi())
+
 ---
 
 ## Technical Skills
