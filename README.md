@@ -121,10 +121,6 @@ print(me.say_hi())
   <img src="https://komarev.com/ghpvc/?username=Yahya-AI01&color=00B4D8&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <i>"Transforming data into intelligence, one algorithm at a time."</i>
-</div>
-
 ---
 
 <div align="center">
