@@ -10,9 +10,9 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 📊 Data Science & Analytics
+### Data Science & Analytics
 <div align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
@@ -22,7 +22,7 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
   <img src="https://img.shields.io/badge/Data_Validation-4ECDC4?style=for-the-badge&logo=check&logoColor=white" />
 </div>
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 <div align="center">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -30,7 +30,7 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
   <img src="https://img.shields.io/badge/Predictive_Analytics-00B4D8?style=for-the-badge&logo=analytics&logoColor=white" />
 </div>
 
-### 💻 Programming Languages
+### Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -43,14 +43,14 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
   <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-### 🌐 Web Development
+### Web Development
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
-### 🗄️ Databases & Information Systems
+### Databases & Information Systems
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -58,28 +58,28 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
   <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
-### 🔧 Software Engineering & Design
+### Software Engineering & Design
 <div align="center">
   <img src="https://img.shields.io/badge/UML-0066CC?style=for-the-badge&logo=uml&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logo=object&logoColor=white" />
   <img src="https://img.shields.io/badge/Architecture-4ECDC4?style=for-the-badge&logo=architecture&logoColor=white" />
 </div>
 
-### 🌐 Networks & Systems
+### Networks & Systems
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Unix-0066CC?style=for-the-badge&logo=unix&logoColor=white" />
 </div>
 
-### 📈 Operations Research & Mathematics
+### Operations Research & Mathematics
 <div align="center">
   <img src="https://img.shields.io/badge/Linear_Programming-00B4D8?style=for-the-badge&logo=math&logoColor=white" />
   <img src="https://img.shields.io/badge/Optimization-FF6B6B?style=for-the-badge&logo=optimization&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-4ECDC4?style=for-the-badge&logo=statistics&logoColor=white" />
 </div>
 
-### 📋 Project Management
+### Project Management
 <div align="center">
   <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" />
@@ -87,7 +87,7 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yahya-AI01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8" alt="GitHub Stats" width="48%" />
@@ -100,7 +100,7 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in//Yahya-Misky" target="_blank">
@@ -126,12 +126,12 @@ Passionné par la **Data Science**, l'**Intelligence Artificielle** et le **Dév
 
 ---
 
-## 🎯 Fun Facts
+## Fun Facts
 
-- ⚡ Passionné par l'IA et les technologies émergentes
-- 🎮 Amateur de jeux de stratégie
-- 📚 Lecture constante sur les nouvelles technologies
-- 🌍 Voyageur et curieux des différentes cultures
+-  Passionné par l'IA et les technologies émergentes
+-  Amateur de jeux de stratégie
+-  Lecture constante sur les nouvelles technologies
+-  Voyageur et curieux des différentes cultures
 
 ---
 
